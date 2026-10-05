@@ -1,4 +1,4 @@
-# 🚆 Train Ticket Booking & Management System
+🚆 Train Ticket Booking & Management System
 
 A comprehensive and user-friendly mobile application designed for seamless train ticket booking, digital wallet management, and contactless travel. This application provides an intuitive user interface for searching trains, selecting seats, managing payments, and generating e-tickets with QR codes.
 
