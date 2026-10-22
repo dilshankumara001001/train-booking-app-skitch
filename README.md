@@ -16,7 +16,7 @@ https://www.figma.com/files/team/1505609448274919316/recents-and-sharing?fuid=15
     *   Secure login and personalized user dashboard.
     *   Manage user profiles (Name, Password, Email, Location).
     *   Support for multiple passenger profiles for quick booking.
-*   **🏠 Home & Search:**
+  **🏠 Home & Search:**
     *   Search destinations and view upcoming train schedules.
     *   Quick access to order train food, round trip tickets, and specific routes (e.g., Apex square to Proxima).
 *   **💳 Digital Wallet Integration:**
