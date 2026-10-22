@@ -2,7 +2,7 @@
 
  comprehensive and user-friendly mobile application designed for seamless train ticket booking, digital wallet management, and contactless travel. This application provides an intuitive user interface for searching trains, selecting seats, managing payments, and generating e-tickets with QR codes.
 
-## 📱 Screenshots
+ 📱 Screenshots
 https://www.figma.com/design/9nkH5wswtYuvrPlfcgdHUd/train-booking-app?node-id=0-1&t=Ht71nQOt6sp1hNGv-1
 
 my figma
