@@ -10,7 +10,7 @@ https://www.figma.com/files/team/1505609448274919316/recents-and-sharing?fuid=15
 
 
 
-# ✨ Key Features
+✨ Key Features
 
 *   **🔐 User Authentication & Profile Management:**
     *   Secure login and personalized user dashboard.
